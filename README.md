@@ -28,6 +28,16 @@ Welcome to my GitHub profile. I am focused on programming logic, automation, and
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=dracula)
 
+### 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ### Connect with me
 
 - **GitHub:** [ArthurdevjuniorIA](https://github.com/ArthurdevjuniorIA)
