@@ -40,7 +40,7 @@ Welcome to my GitHub profile. I am focused on programming logic, automation, and
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
+
   <img height="180em" src="https://streak-stats.demolab.com/?user=ArthurdevjuniorIA&theme=dracula" alt="Sequência do GitHub" />
 </p>
 
