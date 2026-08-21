@@ -25,8 +25,7 @@ Welcome to my GitHub profile. I am focused on programming logic, automation, and
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurdevjuniorIA&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurdevjuniorIA&theme=dracula" alt="GitHub Streak" />
 </p>
 ### 🛠️ Technology and tools
 
