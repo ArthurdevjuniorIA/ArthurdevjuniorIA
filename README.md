@@ -33,14 +33,13 @@ Welcome to my profile! I focus on programming logic, automation, and backend sys
 ---
 
 ### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArthurdevjuniorIA&theme=tokyonight" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurdevjuniorIA&theme=tokyonight" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight&hide=html,css" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 ---
