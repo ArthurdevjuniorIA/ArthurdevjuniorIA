@@ -43,9 +43,10 @@ Welcome to my GitHub profile. I am focused on programming logic, automation, and
 
   <img height="180em" src="https://streak-stats.demolab.com/?user=ArthurdevjuniorIA&theme=dracula" alt="Sequência do GitHub" />
 </p>
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
+</div>
 ---
 
 ### Connect with me
