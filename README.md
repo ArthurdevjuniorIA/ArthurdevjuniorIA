@@ -1,37 +1,32 @@
 # Hi, I'm Arthur! 👋
 
-### Python Backend Developer & Technology Student
+### 🚀 Python Backend Developer & Technology Student
 
-Welcome to my GitHub profile. I am focused on programming logic, automation, and backend systems architecture. Currently, I am dedicated to mastering Python, writing efficient algorithms, and expanding my knowledge into core Web Technologies (HTML5, CSS3, and JavaScript) to understand how client-side interfaces integrate with server-side logic.
-
----
-
-## Current Projects & Focus
-
-- **Algorithmic Problem Solving:** Training data structures and performance optimization through competitive programming challenges, including OBI (Brazilian Informatics Olympiad) problems.
-- **Backend Automations:** Developing a Python comparison engine designed to track states and automate data validation for inventory checklists.
-- **Web Development Fundamentals:** Building structured applications to master the interface between frontend requests and backend responses.
+Welcome to my profile! I focus on programming logic, automation, and backend systems architecture. Currently, I am dedicated to mastering Python, writing efficient algorithms, and building robust backend services with Flask.
 
 ---
 
-## Tech Stack & Tools
+### 📌 Current Projects & Focus
 
-- **Languages:** Python 3, HTML5, CSS3, JavaScript (Learning)
-- **Version Control:** Git & GitHub
-- **Environment:** VS Code & Terminal (Linux/Windows)
+- 🎯 **Algorithmic Problem Solving:** Data structures and performance optimization for competitive programming, including OBI challenges.
+- ⚙️ **Backend Automations:** Building Python comparison engines to track state changes and automate inventory data validation.
+- 🌐 **Web Development:** Integrating server-side logic (Flask) with modern frontend interfaces.
 
 ---
 
-### 🛠️ Technology and tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <br>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -40,17 +35,22 @@ Welcome to my GitHub profile. I am focused on programming logic, automation, and
 ### 📊 GitHub Analytics
 
 <p align="center">
-
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ArthurdevjuniorIA&theme=dracula" alt="Sequência do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=ArthurdevjuniorIA&theme=tokyonight" height="170" alt="GitHub Streak" />
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight&hide=html,css" height="170" alt="Top Languages" />
+</p>
+
 ---
 
-### Connect with me
+### 🤝 Connect with me
 
-- **GitHub:** [ArthurdevjuniorIA](https://github.com/ArthurdevjuniorIA)
+<p align="left">
+  <a href="https://github.com/ArthurdevjuniorIA">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-*"Persistence is the path to success."*
+> *"Persistence is the path to success."*
