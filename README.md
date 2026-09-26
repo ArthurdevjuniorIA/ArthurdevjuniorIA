@@ -1,6 +1,6 @@
 # Hi, I'm Arthur! 👋
 
-### 🚀 Python and Java Backend Developer & Technology Student
+### 🚀 Python and Java Backend Developer, Frontend, design & Technology Student
 
 Welcome to my profile! I focus on programming logic, automation, and backend systems architecture. Currently, I am dedicated to mastering Python, writing efficient algorithms, and building robust backend services with Flask.
 
