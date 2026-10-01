@@ -1,4 +1,4 @@
-# Hi, I'm Arthur! 👋
+# Hi, I'm Arthur Kauã! 👋
 
 ### 🚀 Python and Java Backend Developer, Frontend, design & Technology Student
 
