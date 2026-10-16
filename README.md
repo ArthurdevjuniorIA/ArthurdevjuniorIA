@@ -34,10 +34,6 @@ Welcome to my profile! I focus on programming logic, automation, and backend sys
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurdevjuniorIA&theme=tokyonight" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
