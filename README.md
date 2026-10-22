@@ -134,4 +134,4 @@ Estou aberto a conversar sobre **estágio, jovem aprendiz ou oportunidades júni
 
 ---
 
-<p align="center"><i>Aprendendo em público, uma contribuição por vez.</i></p>
+<H1 italic align="center"><i>A persistência é o caminho do sucesso.</i></h1>
