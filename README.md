@@ -134,4 +134,4 @@ Estou aberto a conversar sobre **estágio, jovem aprendiz ou oportunidades júni
 
 ---
 
-<H1 italic align="center"><i>A persistência é o caminho do sucesso.</i></h1>
+<p align="center"><i>A persistência é o caminho do sucesso.</i></p>
