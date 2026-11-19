@@ -189,16 +189,11 @@ CS50x (Harvard) · Nand2Tetris · *C Programming: A Modern Approach* (K. N. King
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Linguagens mais usadas" />
+<img src="assets/github-stats.svg" alt="Painel de estatísticas do GitHub" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ArthurdevjuniorIA&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurdevjuniorIA&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Gráfico de contribuições" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurdevjuniorIA&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=A78BFA" alt="Gráfico de contribuições" width="95%" />
 
 </div>
 
