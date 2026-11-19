@@ -1,18 +1,43 @@
-<h1 align="center">Olá, eu sou o Arthur Kauã 👋</h1>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <b>Desenvolvedor Backend Python em formação · Algoritmos · Automação</b><br>
-  Natal, RN 🇧🇷 · Aberto a oportunidades de [estágio / jovem aprendiz / júnior]
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:7C3AED&height=230&section=header&text=Arthur%20Kau%C3%A3&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Python%20%C2%B7%20Algoritmos%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner Arthur Kauã" width="100%" />
 
-<p align="center">
-  <a href="mailto:marisanascimento772@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://github.com/ArthurdevjuniorIA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<a href="https://github.com/ArthurdevjuniorIA">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+Kau%C3%A3+%F0%9F%91%8B;Desenvolvedor+Backend+Python+em+forma%C3%A7%C3%A3o;Transformo+regras+de+neg%C3%B3cio+em+c%C3%B3digo+limpo;Contribuidor+open+source+%40+Dados+Livres;Aberto+a+est%C3%A1gio%2C+jovem+aprendiz+e+j%C3%BAnior" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Natal,_RN-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" alt="Localização" />
+<img src="https://img.shields.io/badge/🎓_Em_formação-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" alt="Em formação" />
+<img src="https://img.shields.io/badge/💼_Aberto_a_oportunidades-0D1117?style=for-the-badge&labelColor=0D1117&color=22C55E" alt="Aberto a oportunidades" />
+
+<br/><br/>
+
+<a href="mailto:marisanascimento772@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/ArthurdevjuniorIA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=ArthurdevjuniorIA&label=Visitas&color=7c3aed&style=for-the-badge" alt="Visitas no perfil" />
+
+</div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 Sobre mim
+
+```python
+class ArthurKaua:
+    def __init__(self):
+        self.local = "Natal, RN 🇧🇷"
+        self.foco = ["Backend Python", "APIs REST", "Algoritmos", "Automação"]
+        self.mindset = "código limpo, validado e à prova de erro humano"
+        self.status = "aberto a estágio / jovem aprendiz / júnior"
+
+    def lema(self):
+        return "A persistência é o caminho do sucesso."
+```
 
 Sou estudante de tecnologia em Natal, RN, com foco em **backend com Python**. Gosto de transformar regras de negócio em código limpo e validado: travas de segurança, cálculos automatizados e sistemas que evitam erro humano.
 
@@ -23,72 +48,126 @@ Sou estudante de tecnologia em Natal, RN, com foco em **backend com Python**. Go
 
 ---
 
+## 🧰 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,js,html,css,bootstrap&theme=dark" alt="Backend e frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,docker,git,github,linux,vscode&theme=dark" alt="Baixo nível e ferramentas" />
+
+</div>
+
+<br/>
+
+| Área | Tecnologias |
+|:--|:--|
+| 🐍 **Linguagens** | Python · JavaScript · C · C++ · SQL |
+| ⚙️ **Backend** | Flask · FastAPI · REST APIs · PostgreSQL |
+| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript · Bootstrap |
+| 🛠️ **Ferramentas** | Git · GitHub · Docker Compose · Linux · VS Code · GDB · Valgrind |
+
+---
+
 ## 🔨 Projetos em destaque
 
-### 🌐 [Dados Livres](https://github.com/Projeto-Dados-Livres/Dados-Livres) · [dadoslivres.org](https://dadoslivres.org)
-Plataforma livre (GPLv3) para catalogar fontes de dados abertos e aplicações cívicas por colaboração coletiva, alinhada aos ODS 10 e 16 da ONU. Nasceu como projeto de pesquisa no IFRN.
-- **Stack:** Python, Flask, HTML, CSS, JavaScript, Bootstrap, Docker Compose
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🌐 [Dados Livres](https://github.com/Projeto-Dados-Livres/Dados-Livres)
+<sub>[dadoslivres.org](https://dadoslivres.org) · Open source · GPLv3</sub>
+
+Plataforma livre para catalogar fontes de dados abertos e aplicações cívicas por colaboração coletiva, alinhada aos **ODS 10 e 16 da ONU**. Nasceu como projeto de pesquisa no IFRN.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚚 [GlobalMove Logística](https://github.com/ArthurdevjuniorIA/Sistema-de-gestao-de-frota-e-logistica)
-Sistema de gestão de frotas e distribuição de cargas, com arquitetura modular em camadas.
-- **Trava operacional:** impede carga acima da capacidade do veículo e bloqueia veículos em rota ou em manutenção
-- **Calculadora de viagem:** estimativa de combustível por distância, consumo médio e preço do dia
-- **Cadastro por placa** com três categorias: furgão, caminhão leve e carreta
-- **Status:** Fase 1 (CLI e regras de negócio) concluída · Fase 2 (persistência + API REST com FastAPI) em desenvolvimento
-- **Stack:** Python, [pytest], [FastAPI]
+<sub>Gestão de frotas · Arquitetura modular em camadas</sub>
 
-<!-- <p align="center"><img src="assets/globalmove.png" width="700" alt="GlobalMove bloqueando sobrecarga" /></p> -->
+Sistema de gestão de frotas e distribuição de cargas.
+
+- 🔒 **Trava operacional:** bloqueia sobrecarga e veículos em rota ou manutenção
+- ⛽ **Calculadora de viagem:** combustível por distância, consumo e preço do dia
+- 🪪 **Cadastro por placa:** furgão, caminhão leve e carreta
+
+<img src="https://img.shields.io/badge/Fase_1-Conclu%C3%ADda-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Fase_2-API_FastAPI-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🏊 [Learning Python with Real Projects](https://github.com/ArthurdevjuniorIA/Learning-Python-with-a-real-projects-in-classroom)
+
 Projetos em equipe com o fluxo de trabalho de times de software: branches, commits semânticos, Pull Requests e revisão de código. Destaque: o **Nado Livre**, sistema de controle de toalhas com cadastro de nadadores, estoque, histórico de movimentações e validação de entradas.
-- **Stack:** Python 3, Git, GitHub
+
+<img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<!-- Dica: adicione um print do GlobalMove bloqueando sobrecarga:
+<p align="center"><img src="assets/globalmove.png" width="700" alt="GlobalMove bloqueando sobrecarga" /></p> -->
 
 ---
 
 ## 📚 Em estudo
 
-| Repositório | Foco |
-|---|---|
-| [HTML, CSS & JavaScript](https://github.com/ArthurdevjuniorIA/HTML-CSS-JAVASCRIPT-learning-with-projects) | Front-end: HTML semântico, CSS, lógica em JavaScript puro e manipulação de DOM |
-| [Jornada em C e C++](LINK_DO_REPO) | Ponteiros, alocação dinâmica, stack vs. heap, estruturas de dados do zero e POO, com GDB e Valgrind |
+<details>
+<summary><b>🌐 HTML, CSS & JavaScript</b> &nbsp;·&nbsp; clique para abrir</summary>
+<br/>
 
----
+Front-end na prática: HTML semântico, CSS, lógica em JavaScript puro e manipulação de DOM.
 
-## 🛠️ Tech stack
+👉 [Ver repositório](https://github.com/ArthurdevjuniorIA/HTML-CSS-JAVASCRIPT-learning-with-projects)
 
-| Área | Tecnologias |
-|---|---|
-| **Linguagens** | Python · JavaScript · C · C++ · SQL |
-| **Backend** | Flask · REST APIs · PostgreSQL |
-| **Frontend** | HTML5 · CSS3 · JavaScript · Bootstrap |
-| **Ferramentas** | Git · GitHub · Docker Compose · Linux · VS Code · GDB · Valgrind |
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<details>
+<summary><b>⚙️ Jornada em C e C++</b> &nbsp;·&nbsp; clique para abrir</summary>
+<br/>
+
+Ponteiros, alocação dinâmica, stack vs. heap, estruturas de dados do zero e POO, com **GDB** e **Valgrind**.
+
+<!-- 👉 [Ver repositório](COLOQUE_O_LINK_AQUI) -->
+
+</details>
+
+<details>
+<summary><b>📖 Referências de estudo</b> &nbsp;·&nbsp; clique para abrir</summary>
+<br/>
+
+CS50x (Harvard) · Nand2Tetris · *C Programming: A Modern Approach* (K. N. King) · *Dive into Systems* · Beej's Guide to C · cppreference.com
+
+</details>
 
 ---
 
 ## 🧠 No que estou focado
 
-- **Backend e APIs:** regras de negócio em camadas, validações rigorosas, APIs REST com Flask/FastAPI.
-- **Qualidade de código:** testes automatizados, código modular e documentação clara.
-- **Colaboração profissional:** Git flow, Pull Requests, code review e commits semânticos.
-- **Algoritmos e estruturas de dados:** problemas de competição (OBI) [cite um resultado: fase/medalha/pontuação] e implementação de listas, pilhas, filas e árvores.
-- **Fundamentos de computação:** gestão de memória e como o código interage com o sistema operacional.
+| | Foco | O que significa na prática |
+|:-:|:--|:--|
+| ⚙️ | **Backend e APIs** | Regras de negócio em camadas, validações rigorosas, APIs REST com Flask/FastAPI |
+| ✅ | **Qualidade de código** | Testes automatizados, código modular e documentação clara |
+| 🤝 | **Colaboração profissional** | Git flow, Pull Requests, code review e commits semânticos |
+| 🧮 | **Algoritmos e estruturas de dados** | Problemas de competição (OBI), listas, pilhas, filas e árvores |
+| 🖥️ | **Fundamentos de computação** | Gestão de memória e como o código interage com o sistema operacional |
+
+<!-- Se tiver um resultado na OBI, adicione na linha de algoritmos: fase, medalha ou pontuação. -->
 
 ---
 
@@ -106,17 +185,22 @@ Projetos em equipe com o fluxo de trabalho de times de software: branches, commi
 
 ---
 
-## 📚 Referências de estudo
-
-CS50x (Harvard) · Nand2Tetris · *C Programming: A Modern Approach* (K. N. King) · *Dive into Systems* · Beej's Guide to C · cppreference.com
-
----
-
 ## 📊 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ArthurdevjuniorIA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArthurdevjuniorIA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Linguagens mais usadas" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ArthurdevjuniorIA&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurdevjuniorIA&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Gráfico de contribuições" width="95%" />
+
+</div>
 
 ---
 
@@ -130,8 +214,15 @@ Colaboro em projetos de sala com [@Marcuspdev](https://github.com/Marcuspdev) e 
 
 Estou aberto a conversar sobre **estágio, jovem aprendiz ou oportunidades júnior** em desenvolvimento backend.
 
-📧 [marisanascimento772@gmail.com](mailto:marisanascimento772@gmail.com)
+<div align="center">
 
----
+<a href="mailto:marisanascimento772@gmail.com"><img src="https://img.shields.io/badge/Enviar_e--mail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+<a href="https://github.com/ArthurdevjuniorIA"><img src="https://img.shields.io/badge/Ver_meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<p align="center"><i>A persistência é o caminho do sucesso.</i></p>
+<br/><br/>
+
+<i>"A persistência é o caminho do sucesso."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0D1117&height=120&section=footer" width="100%" alt="Rodapé" />
+
+</div>
