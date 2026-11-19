@@ -26,6 +26,7 @@ jobs:
           GH_USER: ArthurdevjuniorIA
           GH_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           TZ_OFFSET: "-3"
+          AUTHOR_EMAILS: "kaua.arthur@escolar.ifrn.edu.br,20261041110017@ifrn.local"
         run: python scripts/generate_stats.py
 
       - name: Commitar se mudou

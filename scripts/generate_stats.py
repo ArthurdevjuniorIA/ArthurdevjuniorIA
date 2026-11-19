@@ -4,6 +4,7 @@
 Uso:
   GH_TOKEN=xxx GH_USER=ArthurdevjuniorIA python scripts/generate_stats.py
   python scripts/generate_stats.py --demo      # dados de exemplo
+AUTHOR_EMAILS=e1@x.com,e2@y.com (e-mails dos seus commits)
 Variáveis opcionais: TZ_OFFSET (horas, padrão -3 = Natal/RN), OUT (caminho do SVG)
 """
 import json, os, sys, urllib.request, urllib.error
@@ -32,8 +33,35 @@ def graphql(query):
                json.dumps({"query": query}).encode())["data"]
 
 
+def commit_hours(repos):
+    """Conta commits por hora clonando os repositórios e filtrando por e-mail.
+    AUTHOR_EMAILS = e-mails usados nos seus commits, separados por vírgula."""
+    import subprocess, tempfile
+    emails = {e.strip().lower() for e in os.environ.get("AUTHOR_EMAILS", "").split(",") if e.strip()}
+    hours = [0] * 24
+    if not emails:
+        print("AUTHOR_EMAILS vazio: gráfico de horas ficará zerado", file=sys.stderr)
+        return hours
+    auth = f"x-access-token:{TOKEN}@" if TOKEN else ""
+    with tempfile.TemporaryDirectory() as tmp:
+        for name in repos:
+            dest = os.path.join(tmp, name)
+            url = f"https://{auth}github.com/{USER}/{name}.git"
+            if subprocess.run(["git", "clone", "-q", "--bare", "--filter=blob:none", url, dest],
+                              capture_output=True).returncode != 0:
+                continue
+            out = subprocess.run(["git", "-C", dest, "log", "--all", "--format=%ae|%at"],
+                                 capture_output=True, text=True).stdout
+            for line in out.splitlines():
+                e, t = line.split("|")
+                if e.lower() in emails:
+                    dt = datetime.fromtimestamp(int(t), timezone.utc) + timedelta(hours=TZ)
+                    hours[dt.hour] += 1
+    return hours
+
+
 def fetch():
-    meta = graphql('{ user(login:"%s"){ createdAt repositories(first:100, ownerAffiliations:OWNER, isFork:false){ nodes{ primaryLanguage{name color} languages(first:10, orderBy:{field:SIZE, direction:DESC}){ edges{ size node{name color} } } } } } }' % USER)["user"]
+    meta = graphql('{ user(login:"%s"){ createdAt repositories(first:100, ownerAffiliations:OWNER, isFork:false){ nodes{ name primaryLanguage{name color} languages(first:10, orderBy:{field:SIZE, direction:DESC}){ edges{ size node{name color} } } } } } }' % USER)["user"]
     created = datetime.fromisoformat(meta["createdAt"].replace("Z", "+00:00"))
 
     days = {}
@@ -46,18 +74,7 @@ def fetch():
             for d in w["contributionDays"]:
                 days[d["date"]] = d["contributionCount"]
 
-    hours = [0] * 24
-    try:
-        for page in range(1, 11):
-            res = api(f"https://api.github.com/search/commits?q=author:{USER}&per_page=100&page={page}")
-            items = res.get("items", [])
-            for it in items:
-                dt = datetime.fromisoformat(it["commit"]["committer"]["date"].replace("Z", "+00:00"))
-                hours[(dt.hour + TZ) % 24] += 1
-            if len(items) < 100:
-                break
-    except urllib.error.HTTPError:
-        pass  # limite da API: segue com o que coletou
+    hours = commit_hours([r["name"] for r in meta["repositories"]["nodes"]])
 
     by_repo, by_size = {}, {}
     colors = {}
@@ -212,7 +229,7 @@ def build(data):
 <text x="372" y="184" text-anchor="middle" class="big2" style="font-size:30px">{cur}</text>
 <text x="372" y="202" text-anchor="middle" class="muted">dias</text>
 <text x="448" y="162" style="font-size:17px;font-weight:700;fill:#fff">Streak atual</text>
-<text x="448" y="184" class="acc">{escape(rng(cur_r))}</text>
+<text x="444" y="184" class="acc" style="font-size:11.5px">{escape(rng(cur_r))}</text>
 <text x="448" y="204" class="muted">{"Igual ao maior streak" if cur and cur == lon else "Meta: bater o recorde"}</text>
 
 <rect x="630" y="100" width="240" height="150" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#34295F"/>
