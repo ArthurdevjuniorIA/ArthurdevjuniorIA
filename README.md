@@ -59,14 +59,6 @@ Sou estudante de tecnologia em Natal, RN, com foco em **backend com Python**. Go
 </div>
 
 <br/>
-
-| Área | Tecnologias |
-|:--|:--|
-| 🐍 **Linguagens** | Python · JavaScript · C · C++ · SQL |
-| ⚙️ **Backend** | Flask · FastAPI · REST APIs · PostgreSQL |
-| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript · Bootstrap |
-| 🛠️ **Ferramentas** | Git · GitHub · Docker Compose · Linux · VS Code · GDB · Valgrind |
-
 ---
 
 ## 🔨 Projetos em destaque
