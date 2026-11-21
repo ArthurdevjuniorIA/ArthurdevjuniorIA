@@ -21,8 +21,6 @@
 
 </div>
 
-<br/>
-
 
 ## 👨‍💻 Sobre mim
 
