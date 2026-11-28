@@ -15,11 +15,11 @@
 </defs>
 <rect width="900" height="730" rx="24" fill="url(#bg)" stroke="#2D2552"/>
 <text x="40" y="58" class="title">GitHub stats</text>
-<text x="40" y="78" class="sub">@ArthurdevjuniorIA · atualizado em 27/11/2026</text>
+<text x="40" y="78" class="sub">@ArthurdevjuniorIA · atualizado em 28/11/2026</text>
 
 <rect x="30" y="100" width="250" height="150" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#34295F"/>
 <text x="52" y="132" class="lbl">Total de contribuições</text>
-<text x="52" y="196" class="big">637</text>
+<text x="52" y="196" class="big">640</text>
 <text x="52" y="228" class="acc">desde 16 mar 2026</text>
 
 <rect x="300" y="100" width="310" height="150" rx="16" fill="#ffffff" fill-opacity=".05" stroke="#6D5BD0"/>
